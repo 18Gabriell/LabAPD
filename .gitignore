@@ -8,3 +8,5 @@ build/
 
 # Setari personale VS Code
 .vscode/
+# Parole si date confidentiale
+secrets.txt
