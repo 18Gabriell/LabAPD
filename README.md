@@ -7,3 +7,7 @@ Nod de achiziție a temperaturii bazat pe Arduino Uno.
 
 Nume: Moldovan Gabriel
 Grupa: 4LF342
+
+## Hardware
+
+Arduino Uno R3, senzor de temperatura TMP36
